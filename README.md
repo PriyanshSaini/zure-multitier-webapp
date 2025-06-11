@@ -15,9 +15,6 @@ This project simulates a real-world multi-tier web application hosted on Azure u
 4. Create Ubuntu VM for DB Tier and install MySQL
 5. Allow MySQL connections from Web VM subnet only
 6. Test connectivity from Web VM to DB VM using MySQL client
-7. Optional: Serve PHP page from Apache to check DB connection
 
 ## Files Included
 - index.html – Static test page for Apache
-- index.php – Dynamic page for DB connection check
-- architecture.png – (To be added if requested)
